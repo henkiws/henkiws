@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I’m Henki Wisnu Subakti
 
-<!--
-**henkiws/henkiws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer with 5+ years of experience building scalable and efficient web applications using modern technologies like **React**, **Laravel**, and **Node.js**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Frontend:** React, HTML, CSS, JavaScript, jQuery
+- **Backend:** PHP (Laravel, CodeIgniter), Node.js (Express.js)
+- **Database:** MySQL, MongoDB
+- **Others:** REST APIs, Git, Postman, Jotai (State Management), Axios
+
+---
+
+### 🚀 About Me
+
+- 🔧 Focused on performance, clean code, and scalability
+- ✅ Committed to delivering projects on time and within budget
+- 💡 Always learning and staying up-to-date with the latest in web development
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio](https://henkiws.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/henki-wisnu-subakti/)
+- 📧 henki.subakti@gmail.com
